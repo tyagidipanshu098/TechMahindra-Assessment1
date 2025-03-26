@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+}
+input {
+    width: 50px;
+    text-align: center;
+}
+.button1 {
+    margin: 5px;
+    padding: 10px;
+    background: green;
+    border: none;
+    color: white;
+    border-radius: 5px;
+}
+.button2 {
+    margin: 5px;
+    padding: 10px;
+    background: rgb(240, 209, 12);
+    border: none;
+    color: white;
+    border-radius: 5px;
+}
+.button3 {
+    margin: 5px;
+    padding: 10px;
+    background: red;
+    border: none;
+    color: white;
+    border-radius: 5px;
+}

@@ -1,0 +1,69 @@
+body {
+    background-color: rgb(19, 18, 18);
+    margin: 0;
+    padding: 0;
+}
+.container{
+    margin: 0;
+    text-align: center;
+    background-image: linear-gradient( 94.3deg,  rgba(26,33,64,1) 10.9%, rgba(81,84,115,1) 87.1% );
+    height: 100vh;
+}
+.input{
+    padding: 25px 11px 25px 0px;
+    border-radius: 0px;
+    border: 2px solid rgb(228, 225, 225);
+    margin: 100px 0px 2px 0px;
+    font-size: 29.6px;
+    text-align: end;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+}
+.buttons{
+    display: inline-block;
+    width: 50%;
+}
+.button{
+    padding: 35px;
+    margin: -3px;
+    width: 6.08rem;
+    font-size: larger;
+    border-radius: 1px;
+    border: 0.1px solid rgb(228, 225, 225);
+}
+.button:hover{
+    padding: 35px;
+    margin: -3px;
+    width: 6.08rem;
+    font-size: larger;
+    border-radius: 1px;
+    background-color: rgb(221, 224, 226);
+    border: 0.1px solid rgb(228, 225, 225);
+}
+.equal{
+    width: 11.95rem;
+    border-radius: 0px;
+    background-color: rgb(157, 190, 238);
+    border-bottom-right-radius: 30px;
+    border-right-color: rgb(157, 190, 238);
+    border-bottom-color: rgb(157, 190, 238);
+}
+.equal:hover{
+    width: 11.95rem;
+    border-radius: 0px;
+    background-color: rgb(120, 169, 241);
+    border-bottom-right-radius: 30px;
+    border-right-color: rgb(120, 169, 241);
+    border-bottom-color: rgb(120, 169, 241);
+}
+.dot{
+    border-bottom-left-radius: 30px;
+}
+.dot:hover{
+    border-bottom-left-radius: 30px;
+}
+.p{
+    font-size: x-small;
+    color: rgb(195, 200, 204);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
